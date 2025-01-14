@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, bug in ActionScript related to array type coercion.  ActionScript's dynamic typing, while flexible, can cause unexpected results if not handled carefully.  The `bug.as` file shows the problem, while `bugSolution.as` provides a solution using type-safe arrays or explicit type checking.
